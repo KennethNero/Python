@@ -1,5 +1,5 @@
 import random, sys, os
-import rabin_miller as rabinMiller, cryptomath_module as cryptoMath
+import ciphers.rabin_miller as rabinMiller, ciphers.cryptomath_module as cryptoMath
 
 def main():
     print('Making key files...')

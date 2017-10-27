@@ -1,5 +1,5 @@
 import time, os, sys
-import transposition_cipher as transCipher
+import ciphers.transposition_cipher as transCipher
 
 def main():
     inputFile = 'Prehistoric Men.txt'

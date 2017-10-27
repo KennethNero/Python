@@ -1,4 +1,4 @@
-import sys, random, cryptomath_module as cryptoMath
+import sys, random, ciphers.cryptomath_module as cryptoMath
 
 SYMBOLS = """ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~"""
 
